@@ -1,6 +1,6 @@
 # Phuc H. Duong <img src="https://www.dhpit.com/static/img/hi-animated.gif" width="30px"/>
 
-I am currently a lecturer and researcher at the Faculty of Information Technology, Ton Duc Thang University, Vietnam. My academic journey intertwines with my role in the Research & Development department at NewAI Vietnam, where I spearhead the development of innovative software solutions, focusing on web-based applications and AI-driven technologies. My research fervor lies in harnessing the power of machine learning to advance natural language processing and graph-based modeling. I earned my Master's degree in Computer Science from TDTU in 2017. With over eight years of hands-on experience in research and development, I am deeply engaged in projects at the nexus of AI and web applications.
+I am a lecturer and researcher at the Faculty of Information Technology, Ton Duc Thang University (TDTU), and currently a PhD student in Artificial Intelligence at the University of Science, VNU-HCM (HCMUS). I also work with the Research & Development team at NewAI Vietnam, focusing on AI-driven solutions. My research interests include machine learning for natural language processing and Agentic AI. I received my Master's degree in Computer Science from TDTU in 2017 and have over ten years of experience in AI research and software development.
 
 
 ## My GitHub Stats
