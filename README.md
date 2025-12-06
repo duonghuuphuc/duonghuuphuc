@@ -3,11 +3,6 @@
 I am a lecturer and researcher at the Faculty of Information Technology, Ton Duc Thang University (TDTU), and currently a PhD student in Artificial Intelligence at the University of Science, VNU-HCM (HCMUS). I also work with the Research & Development team at NewAI Vietnam, focusing on AI-driven solutions. My research interests include machine learning for natural language processing and Agentic AI. I received my Master's degree in Computer Science from TDTU in 2017 and have over ten years of experience in AI research and software development.
 
 
-## My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duonghuuphuc&layout=compact"/>
-
-
 ## Programming languages and tools
 <p align="left">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="Java" height="30" width="40"/>
