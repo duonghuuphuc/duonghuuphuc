@@ -23,10 +23,9 @@ I am a lecturer and researcher at the Faculty of Information Technology, Ton Duc
 
 
 ## Contact info
-- Personal email: dhp@fastai.dev
+- Personal email: huuphucduong@gmail.com
 - Work email (TDTU): duonghuuphuc@tdtu.edu.vn
-- Work email (NewAI): phuc@newai.vn
-- PhD student email (HCMUS): 24N11108@student.hcmus.edu.vn
+- Work email (NewAI): dhphuc@newai.com.vn
 - Homepage: [www.DuongHuuPhuc.com](https://www.duonghuuphuc.com/)
 - KamiMind: AI, Chatbot, and more: [www.kamimind.ai](https://kamimind.ai)
 
